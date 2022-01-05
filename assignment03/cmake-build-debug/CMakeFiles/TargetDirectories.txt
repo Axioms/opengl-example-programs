@@ -1,0 +1,5 @@
+D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Assignments/assignment03/cmake-build-debug/CMakeFiles/part1.dir
+D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Assignments/assignment03/cmake-build-debug/CMakeFiles/part2.dir
+D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Assignments/assignment03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Assignments/assignment03/cmake-build-debug/CMakeFiles/part3.dir
+D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Assignments/assignment03/cmake-build-debug/CMakeFiles/edit_cache.dir

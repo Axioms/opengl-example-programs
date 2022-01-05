@@ -1,0 +1,8 @@
+S:/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Assignments/assignment01/cmake-build-debug/CMakeFiles/problem-1.dir
+S:/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Assignments/assignment01/cmake-build-debug/CMakeFiles/problem-2.dir
+S:/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Assignments/assignment01/cmake-build-debug/CMakeFiles/edit_cache.dir
+S:/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Assignments/assignment01/cmake-build-debug/CMakeFiles/problem-3.dir
+S:/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Assignments/assignment01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+S:/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Assignments/assignment01/cmake-build-debug/CMakeFiles/problem-4.dir
+S:/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Assignments/assignment01/cmake-build-debug/CMakeFiles/problem-5.dir
+S:/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Assignments/assignment01/cmake-build-debug/CMakeFiles/problem-6.dir

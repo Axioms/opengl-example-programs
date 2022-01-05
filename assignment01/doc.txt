@@ -1,0 +1,23 @@
+
+Q1
+
+If we were to put the rgb numbers without making it fit into the range of 0.0 to 1.0 
+then would assume that any number above 1.0 is equivalent to 1.0. Which means if the rgb numbers were put in 
+we would see an opaque white square.
+
+Q2
+
+Dividing the color numbers by 255 will show a black square because we are doing integer division 
+which results in an integer and not a float or double.
+
+Q3
+
+After moving the point to (0,0,-0.75) it is still visable and has not moved.
+
+Q4
+
+After moving the point to (0,0,-2.3) the point is no longer visable because the position has 
+a range of -1.0 to 1.0 and anything above or below that range is off screen.
+
+
+

@@ -1,0 +1,8 @@
+D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Assignments/assignment04/cmake-build-debug/CMakeFiles/5-monolith.dir
+D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Assignments/assignment04/cmake-build-debug/CMakeFiles/4-panning.dir
+D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Assignments/assignment04/cmake-build-debug/CMakeFiles/0-base.dir
+D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Assignments/assignment04/cmake-build-debug/CMakeFiles/1-mix-colors.dir
+D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Assignments/assignment04/cmake-build-debug/CMakeFiles/2-stick-to-ground.dir
+D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Assignments/assignment04/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Assignments/assignment04/cmake-build-debug/CMakeFiles/3-eyes-level.dir
+D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Assignments/assignment04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
